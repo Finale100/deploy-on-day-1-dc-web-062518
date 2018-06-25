@@ -79,7 +79,9 @@ h6 {
     text-transform: uppercase;
 }
 
-p { margin-bottom: 15px }
+p { margin-bottom: 15px;
+    word-wrap: break-word;
+ }
 
 .clear {
     clear: both;
